@@ -1,0 +1,3 @@
+Donde trabajar la lógica de los bots?
+En el front o en el back, seria mas sencillo que el back viera todo como Jugadores, independientemente si son bots o humanos, lo único que hace es recibir acciones del front. Si bien es malo para la "Integridad", todos los jugadores juegan en la misma compu, entonces esto no importa mucho. 
+En cambio con la lógica en el back, la toma de desiciones del jugador y el bot son distintas, una se produce en el front y otra en el back y le grega complejidad, mas que nada en como interpretar al bto desde el front
